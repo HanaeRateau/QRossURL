@@ -1,0 +1,9 @@
+html, body {
+  max-width: 200px;
+  width: max-content;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
