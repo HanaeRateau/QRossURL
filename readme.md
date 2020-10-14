@@ -1,4 +1,4 @@
-# QRossShareURL
+# QRossURL
 
 ## Description
 This extension creates an QR code for the current tab url to scan it with another device.
@@ -6,10 +6,8 @@ This extension creates an QR code for the current tab url to scan it with anothe
 ## Usage
 Just click on the toolbar icon to request a QR code.
 
-## Ackoledgement
+## Acknowledgement
 This extension uses the QR code generator API http://goqr.me/
 
 ## Author
 Hanae Rateau
-
-2020
